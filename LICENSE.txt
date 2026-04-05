@@ -1,38 +1,35 @@
-Creative Commons Attribution-NonCommercial 4.0 International
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
 
-Copyright (c) 2026 Kevin Blancaflor / Nex AI
+Copyright (C) 2026 Nex AI (nex-ai.be)
 
-This work is licensed under the Creative Commons
-Attribution-NonCommercial 4.0 International License.
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-You are free to:
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.
 
-  Share - copy and redistribute the material in any medium or format
-  Adapt - remix, transform, and build upon the material
+You should have received a copy of the GNU Affero General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/agpl-3.0.html>.
 
-Under the following terms:
+ADDITIONAL TERMS:
 
-  Attribution - You must give appropriate credit, provide a link to
-  the license, and indicate if changes were made. You may do so in
-  any reasonable manner, but not in any way that suggests the licensor
-  endorses you or your use.
+Commercial License Available
+-----------------------------
+If you wish to use this software in a proprietary product, offer it as
+a hosted service, or integrate it into commercial software without
+complying with the AGPL-3.0 obligations (including source disclosure),
+a commercial license is available from Nex AI.
 
-  NonCommercial - You may not use the material for commercial purposes.
+Contact: info@nex-ai.be
+Website: https://nex-ai.be
 
-No additional restrictions - You may not apply legal terms or
-technological measures that legally restrict others from doing
-anything the license permits.
-
-Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
-
----
-
-COMMERCIAL USE
-
-Commercial use of Nex Life Logger requires a separate paid license.
-This includes use within a business, integration into commercial
-products, or any use intended to generate revenue.
-
-For commercial licensing inquiries, contact:
-  kevin@nex-ai.be
-  https://nex-ai.be
+DUAL LICENSE NOTICE:
+This software is also published on ClawHub under the MIT-0 license as
+required by the ClawHub platform. The MIT-0 license applies exclusively
+to copies obtained through ClawHub. All copies obtained from this GitHub
+repository or any other source are governed by the AGPL-3.0 license above.
